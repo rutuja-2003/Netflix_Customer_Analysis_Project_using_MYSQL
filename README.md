@@ -1,4 +1,4 @@
-🎬 Netflix Customer Analysis Project
+🎬 Netflix Content & User Behaviour Analysis Project
 
 Project Type: Academic / Analytics Project
 Tools & Technologies: SQL, Python (Pandas, NumPy), Power BI, Excel
