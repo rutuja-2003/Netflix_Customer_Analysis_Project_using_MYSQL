@@ -1,8 +1,8 @@
 🎬 Netflix Content & User Behaviour Analysis Project
 
 Project Type: Academic / Analytics Project
-Tools & Technologies: SQL, Python (Pandas, NumPy), Power BI, Excel
-Duration: Oct 2024
+Tools & Technologies: SQL, Excel
+Duration: Dec 2025
 
 🌟 Project Overview
 
